@@ -1,6 +1,6 @@
 numpy
 pandas
-tensorflow-gpu
+tensorflow-gpu==1.15
 matplotlib
 scikit-learn
 jupyter
